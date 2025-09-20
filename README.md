@@ -1,4 +1,5 @@
 # Git Scripts
+Test this
 
 These are simple Bash scripts that allows users to easily add files to a Git repository, provide a commit message, and push the changes to the remote repository. It provides a streamlined way to perform these common Git operations.
 
